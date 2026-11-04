@@ -1,7 +1,2 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet mauris id felis pharetra vestibulum. Aenean congue tempus neque. Suspendisse potenti. In vestibulum varius tempus. Curabitur imperdiet enim et scelerisque vehicula. Suspendisse luctus orci eget nibh vehicula pulvinar. Vestibulum suscipit sem ac mattis mattis.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet mauris id felis pharetra vestibulum. Aenean congue tempus neque. Suspendisse potenti. In vestibulum varius tempus. Curabitur imperdiet enim et scelerisque vehicula. Suspendisse luctus orci eget nibh vehicula pulvinar. Vestibulum suscipit sem ac mattis mattis.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet mauris id felis pharetra vestibulum. Aenean congue tempus neque. Suspendisse potenti. In vestibulum varius tempus. Curabitur imperdiet enim et scelerisque vehicula. Suspendisse luctus orci eget nibh vehicula pulvinar. Vestibulum suscipit sem ac mattis mattis.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet mauris id felis pharetra vestibulum. Aenean congue tempus neque. Suspendisse potenti. In vestibulum varius tempus. Curabitur imperdiet enim et scelerisque vehicula. Suspendisse luctus orci eget nibh vehicula pulvinar. Vestibulum suscipit sem ac mattis mattis.
